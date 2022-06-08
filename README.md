@@ -1,37 +1,39 @@
-# OSINT_Tools
-## Federated list of tools appropriate for OSINT work
+<h1>OSINT_Tools</h1>
+Federated list of tools appropriate for OSINT work
 
 <h2>Sections</h2>
-  * <a href="#Data Leaks/Dumps">Data Leaks/Dumps</a> </n>
-  * <a href="#DNS/Domain">DNS/Domain</a>
-  * <a href="#Geolocation Data">Geolocation Data</a>
-  * <a href="#Images">Images</a>
-  * <a href="#OSINT Tools/Services">OSINT Tools/Services</a>d
-  * <a href="#Public Records">Public Records</a>
-  * <a href="#Social Media">Social Media</a>
-  * <a href="#Selectors">Selectors</a>
-  * <a href="#Search Engines">Search Engines</a>
+<a href="#Data Leaks/Dumps">Data Leaks/Dumps</a> </n>
+<a href="#Domains">Domains</a>
+<a href="#Geolocation Data">Geolocation Data</a>
+<a href="#Images">Images</a>
+<a href="#OSINT Tools/Services">OSINT Tools/Services</a>d
+<a href="#Public Records">Public Records</a>
+<a href="#Social Media">Social Media</a>
+<a href="#Selectors">Selectors</a>
+<a href="#Search Engines">Search Engines</a>
 
 
 <a name="Data Leaks/Dumps"></a>
-  <h3>Data Leaks/Dumps</h3>
-<h4> Trial and paid subscriptions noted</h4>
+ <h3>Data Leaks/Dumps</h3>
+ Trial and paid subscriptions noted
 
 | Link             | Description             |
 |------------------|-------------------------|
-| <a href='https://ddosecrets.com/wiki/Special:AllPages'>DDOsecrets.com</a> | A non-profit whistleblower site for news leaks founded in 2018. Sometimes referred to as a successor to WikiLeaks, it is best known for its June 2020 publication of a large collection of internal police documents, known as BlueLeaks. |
+ | <a href='https://ddosecrets.com/wiki/Special:AllPages'>DDOsecrets.com</a> | A non-profit whistleblower site for news leaks founded in 2018. Sometimes referred to as a successor to WikiLeaks, it is best known for its June 2020 publication of a large collection of internal police documents, known as BlueLeaks. |
 
 
-<a name="DNS/Domain"></a>
+<a name="Domains"></a>
 <h3>DNS/Domains</h3
   
 | Link             | Description             |
 |------------------|-------------------------|
-| <a href='https://lookyloo.circl.lu/'>Lookyloo</a> | Webapp scrapper for domains that returns a tree breakdown of calls |
-| <a href='https://dnsdumpster.com/'>dnsdumpster.com</a> | FREE domain research tool that can discover hosts related to a domain |
-| <a href='https://subdomainfinder.c99.nl/'>Subdomainfinder</a> | Performs an advanced scan over the specified domain and tries to find as many subdomains as possible. While scanning it also checks whether the domain is tunneling through CloudFlare. |
-| <a href='https://whoisology.com/'>Whoisology</a> | Domain name ownership archive with literally billions of searchable and cross referenced domain name whois records. |
-| <a href='https://webboar.com.w3snoop.com/'>Webboar</a> | 
+ | <a href='https://lookyloo.circl.lu/'>Lookyloo</a> | Webapp scrapper for domains that returns a tree breakdown of calls |
+ | <a href='https://dnsdumpster.com/'>dnsdumpster.com</a> | FREE domain research tool that can discover hosts related to a domain |
+ | <a href='https://subdomainfinder.c99.nl/'>Subdomainfinder</a> | Performs an advanced scan over the specified domain and tries to find as many subdomains as possible. While scanning it also checks whether the domain is tunneling through CloudFlare. |
+ | <a href='https://whoisology.com/'>Whoisology</a> | Domain name ownership archive with literally billions of searchable and cross referenced domain name whois records. |
+ | <a href='https://webboar.com.w3snoop.com/'>Webboar</a> | 
+
+
 
 
 <a name="Geolocation Data"></a>
