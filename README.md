@@ -1,7 +1,7 @@
-<h1>OSINT_Tools</h1>
-Federated list of tools appropriate for OSINT work
+#OSINT_Tools
+###Federated list of tools appropriate for OSINT work
 
-<h2>Sections</h2>
+##Sections
 <a href="#Data Leaks/Dumps">Data Leaks/Dumps</a> </n>
 <a href="#Domains">Domains</a>
 <a href="#Geolocation Data">Geolocation Data</a>
