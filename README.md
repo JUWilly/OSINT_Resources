@@ -20,7 +20,7 @@
 ### Data Leaks/Dumps
 | **Link**             | **Description**            |
 |------------------|-------------------------|
- | <a href='https://ddosecrets.com/wiki/Special:AllPages'>DDOsecrets.com</a> | A non-profit whistleblower site for news leaks founded in 2018. Sometimes referred to as a successor to WikiLeaks, it is best known for its June 2020 publication of a large collection of internal police documents, known as BlueLeaks. |
+| <a href='https://ddosecrets.com/wiki/Special:AllPages'>DDOsecrets.com</a> | A non-profit whistleblower site for news leaks founded in 2018. Sometimes referred to as a successor to WikiLeaks, it is best known for its June 2020 publication of a large collection of internal police documents, known as BlueLeaks. |
 
 ---
 
@@ -86,7 +86,10 @@
 
 <a name="OSINT Tools/Services"></a>
 ### OSINT Tools/Services
+
+Paid services usually consist of multiple features and data sources. Keyword searching through the descriptions will be your best method.
 **Trial and paid subscriptions noted**
+
 
 | **Link**             | **Description**             | **Free/Trial/Paid** |
 |------------------|-------------------------|-----------------|
