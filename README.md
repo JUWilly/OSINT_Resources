@@ -8,11 +8,11 @@
 * <a href="#Domains">Domains</a>
 * <a href="#Geolocation Data">Geolocation Data</a>
 * <a href="#Images">Images</a>
-* <a href="#OSINT Tools/Services">OSINT Tools/Services</a>
 * <a href="#Public Records">Public Records</a>
 * <a href="#Search Engines">Search Engines</a>
 * <a href="#Selectors">Selectors</a> 
 * <a href="#Social Media">Social Media</a>
+* <a href="#OSINT Tools/Services">OSINT Tools/Services</a> Tools that may require an account or subscription. Trial indicated if available.
 
 ---
 
@@ -52,18 +52,6 @@
 
 ---
 
-<a name="OSINT Tools/Services"></a>
-### OSINT Tools/Services
-**Trial and paid subscriptions noted**
-
-| **Link**             | **Description**             | **Free/Trial/Paid** |
-|------------------|-------------------------|-----------------|
-| <a href='https://intelx.io/'>IntelligenceX</a> | Develops and maintains a search engine and data archive (leaked data, web archive, darknet, email addresses, domains, URLs, IPs, CIDRs, Bitcoin addresses, IPFS hashes, etc.) | Free/Trial/Paid |
-| <a href='https://shodan.io'>Shodan.io</a> | Search engine that lets users search for various types of servers connected to the internet using a variety of filters. | Free/Paid |
-| <a href='https://sociallinks.io/'>SocialLink</a> | Massive volumes of data from open sources including social media, messengers, blockchains, and the Dark Web. Works with Maltego | Paid |
-
----
-
 <a name="Public Records"></a>
 ### Public Records  
 | **Link**             | **Description**             |
@@ -94,6 +82,17 @@
 |------------------|-------------------------|
 | <a href='https://www.smat-app.com/'>Smat-app.com</a> | Social Media Analysis Toolkit (SMAT) was designed to help facilitate activists, journalists, researchers, and other good organizations to analyze and visualize harmful online trends such as hate, mis-, and disinformation online. |
 
+---
+
+<a name="OSINT Tools/Services"></a>
+### OSINT Tools/Services
+**Trial and paid subscriptions noted**
+
+| **Link**             | **Description**             | **Free/Trial/Paid** |
+|------------------|-------------------------|-----------------|
+| <a href='https://intelx.io/'>IntelligenceX</a> | Develops and maintains a search engine and data archive (leaked data, web archive, darknet, email addresses, domains, URLs, IPs, CIDRs, Bitcoin addresses, IPFS hashes, etc.) | Free/Trial/Paid |
+| <a href='https://shodan.io'>Shodan.io</a> | Search engine that lets users search for various types of servers connected to the internet using a variety of filters. | Free/Paid |
+| <a href='https://sociallinks.io/'>SocialLink</a> | Massive volumes of data from open sources including social media, messengers, blockchains, and the Dark Web. Works with Maltego | Paid |
 
 
 
