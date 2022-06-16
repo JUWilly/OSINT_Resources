@@ -12,7 +12,7 @@
 * <a href="#Search Engines">Search Engines</a>
 * <a href="#Selectors">Selectors</a> 
 * <a href="#Social Media">Social Media</a>
-* <a href="#OSINT Tools/Services">OSINT Tools/Services</a> Tools that may require an account or subscription. Trial indicated if available.
+* <a href="#OSINT Tools/Services">OSINT Tools/Services</a> - Tools that may require an account or subscription. Trial indicated if available.
 
 ---
 
